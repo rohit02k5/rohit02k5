@@ -65,6 +65,12 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rohit02k5&theme=radical" />
 </p>
 
+<p align="center">
+  <b>💡 I prefer quality over quantity — I follow a feature-based commit workflow where each commit includes major updates or multiple improvements.  
+  As a result, my commit count may be lower, but every commit delivers substantial features rather than small incremental changes.</b>
+</p>
+
+
 
 
 ---
