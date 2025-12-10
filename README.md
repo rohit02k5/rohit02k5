@@ -3,15 +3,15 @@
 
 <p align="center">
   <a href="mailto:rohitiitbh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rohitiitbh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/rohitiitbh/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/svs-rohit-baa147283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/rohit02k5"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 ### 🎓 About Me  
 - 🎓 **B.Tech in Electrical Engineering**, Indian Institute of Technology Bhilai (IIT Bhilai)  
-- 🔬 **Research & Development Internships:** IIT Bombay, IIT Bhilai
+- 🔬 **Research & Development Internships:** IIT Bombay, IIT Bhilai  
 - 💻 Passionate about **AI, Full-Stack Development, IoT Systems, and Human–Machine Interaction**  
 - 🚀 Currently exploring **Edge AI, MERN applications, and intelligent automation**  
 - 💬 Ask me about **Web Apps, IoT Systems, and Real-Time Data Processing**
@@ -66,12 +66,9 @@
 </p>
 
 <p align="center">
-  <b>💡 I prefer quality over quantity — I follow a feature-based commit workflow where each commit includes major updates or multiple improvements.  
+  <b>💡 I prefer quality over quantity — I follow a feature-based commit workflow where each commit includes major updates or multiple improvements.<br>
   As a result, my commit count may be lower, but every commit delivers substantial features rather than small incremental changes.</b>
 </p>
-
-
-
 
 ---
 
@@ -79,31 +76,35 @@
 
 ### 🧠 NeuraPix AI Image Generator  
 An AI-powered image generator that creates high-quality visuals from text prompts using advanced deep learning models.  
-- 🔗 **Live Demo:** [neurapix-frontend-3.onrender.com](https://neurapix-frontend-3.onrender.com/)  
-- 💻 **GitHub Repository:** [rohit02k5/NeuraPix-AI-IMAGE-GENERATOR-](https://github.com/rohit02k5/NeuraPix-AI-IMAGE-GENERATOR-)
+- 🔗 **Live Demo:** https://neurapix-frontend-3.onrender.com/  
+- 💻 **GitHub Repository:** https://github.com/rohit02k5/NeuraPix-AI-IMAGE-GENERATOR-
 
 ---
 
 ### 💬 Quantum Chat AI Workspace  
 A collaborative AI-driven chat workspace that enables intelligent, multi-threaded discussions.  
-- 🔗 **Live Demo:** [quantum-chat-frontend.onrender.com](https://quantum-chat-frontend.onrender.com/login)  
-- 💻 **GitHub Repository:** [rohit02k5/QUANTUM-CHAT-AI-WORKSPACE](https://github.com/rohit02k5/QUANTUM-CHAT-AI-WORKSPACE)
+- 🔗 **Live Demo:** https://quantum-chat-frontend.onrender.com/  
+- 💻 **GitHub Repository:** https://github.com/rohit02k5/QUANTUM-CHAT-AI-WORKSPACE
 
 ---
 
 ### 🧩 Competitive Programming & DSA  
 - 300+ DSA Problems Solved  
-- **LeetCode 50-Day Badge (2024–25)** | GFG 
-- [LeetCode](https://leetcode.com/u/rohitiitbh/) • [GFG](https://www.geeksforgeeks.org/user/rohitbakco9/)
+- **LeetCode 50-Day Badge (2024–25)** | GFG  
+- 🔗 **LeetCode:** https://leetcode.com/u/rohitiitbh/  
+- 🔗 **GFG:** https://www.geeksforgeeks.org/user/rohitbakco9/
+
 ---
 
 ### ⚡ Fun Facts  
 - 💡 Love critical thinking, building intuitive web applications and intelligent systems  
 
-
 ---
 
 <h3 align="center">💬 “Strive to build things that make intelligence visible.”</h3>
+
 <p align="center">
-  <a href="https://github.com/rohitiitbh?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/rohit02k5?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
