@@ -5,10 +5,9 @@
   <a href="mailto:rohitiitbh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/svs-rohit-baa147283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/rohit02k5"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://rohit02k5.github.io/Portfolio-Website/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
+  <a href="https://rohit02k5.github.io/Portfolio-Website/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -19,6 +18,23 @@
 - 💻 Passionate about **AI, Full-Stack Development, IoT Systems, and Human–Machine Interaction**  
 - 🚀 Currently exploring **Edge AI, MERN applications, and intelligent automation**  
 - 💬 Ask me about **Web Apps, IoT Systems, and Real-Time Data Processing**
+
+---
+
+### 🏗️ System Design & Architecture  
+- Design and implementation of **scalable MERN-based applications**  
+- **RESTful API design** with secure authentication (JWT, OAuth)  
+- Experience with **real-time data pipelines** and asynchronous processing  
+- Modular backend architectures focused on **maintainability and extensibility**  
+- Deployment-aware design considering **latency, reliability, and scalability**
+
+---
+
+### 🔬 Research & Engineering Mindset  
+- Strong emphasis on **clean architecture, modular design, and system clarity**  
+- Research-oriented development with focus on **measurable performance and reliability**  
+- Hands-on experience bridging **theory with real-world engineering constraints**  
+- Interest in building **intelligent systems** that operate under real-time conditions  
 
 ---
 
@@ -63,11 +79,34 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Statistics  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rohit02k5&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohit02k5&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit02k5&theme=radical&hide_border=true" />
 </p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit02k5&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohit02k5&theme=radical&no-frame=true&margin-w=10&column=6" />
+</p>
+
+---
+
+### 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit02k5&theme=redical&hide_border=true" />
+</p>
+
+---
 
 <p align="center">
   <b>💡 I prefer quality over quantity — I follow a feature-based commit workflow where each commit includes major updates or multiple improvements.<br>
