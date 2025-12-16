@@ -92,14 +92,6 @@
 
 ---
 
-### 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohit02k5&theme=radical&no-frame=true&margin-w=10&column=6" />
-</p>
-
----
-
 ### 📈 Contribution Graph  
 
 <p align="center">
