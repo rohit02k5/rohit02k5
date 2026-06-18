@@ -122,7 +122,7 @@ A machine learning-based traffic forecasting system designed to predict traffic 
 ---
 
 ### 🌋 CraterX
-A modern full-stack platform focused on scalable architecture, responsive design, and seamless user experience.
+A high-performance lunar crater detection system that processes multi-gigabyte Lunar Reconnaissance Orbiter GeoTIFF imagery using physics-based contrast enhancement techniques.
 - 🔗 **GitHub Repository:** https://github.com/rohit02k5/CraterX
 
 ---
