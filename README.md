@@ -107,19 +107,37 @@
 
 ---
 
-## 🚀 Featured Projects  
+### 🚀 Featured Projects  
 
-### 🧠 NeuraPix AI Image Generator  
-An AI-powered image generator that creates high-quality visuals from text prompts using advanced deep learning models.  
-- 🔗 **Live Demo:** https://neurapix-frontend-3.onrender.com/  
-- 💻 **GitHub Repository:** https://github.com/rohit02k5/NeuraPix-AI-IMAGE-GENERATOR-
+### 🧠 Unified Multi-Model Surveillance Framework
+An intelligent surveillance system integrating multiple AI models for real-time object detection, tracking, and monitoring across video streams.
+- 🔗 **GitHub Repository:** https://github.com/rohit02k5/Unified-Multi-Model-Surveillance-Framework
 
 ---
 
-### 💬 Quantum Chat AI Workspace  
-A collaborative AI-driven chat workspace that enables intelligent, multi-threaded discussions.  
-- 🔗 **Live Demo:** https://quantum-chat-frontend.onrender.com/  
-- 💻 **GitHub Repository:** https://github.com/rohit02k5/QUANTUM-CHAT-AI-WORKSPACE
+### 🚦 Traffic Demand Prediction
+A machine learning-based traffic forecasting system designed to predict traffic demand patterns and support intelligent transportation planning.
+- 🔗 **GitHub Repository:** https://github.com/rohit02k5/Traffic-Demand-Prediction
+
+---
+
+### 🌋 CraterX
+A modern full-stack platform focused on scalable architecture, responsive design, and seamless user experience.
+- 🔗 **GitHub Repository:** https://github.com/rohit02k5/CraterX
+
+---
+
+### 🧠 NeuraPix AI Image Generator
+An AI-powered image generator that creates high-quality visuals from text prompts using advanced deep learning models.
+- 🔗 **Live Demo:** https://neurapix-frontend-3.onrender.com/
+- 🔗 **GitHub Repository:** https://github.com/rohit02k5/NeuraPix-AI-IMAGE-GENERATOR-
+
+---
+
+### 💬 Quantum Chat AI Workspace
+A collaborative AI-driven chat workspace that enables intelligent, multi-threaded discussions.
+- 🔗 **Live Demo:** https://quantum-chat-frontend.onrender.com/
+- 🔗 **GitHub Repository:** https://github.com/rohit02k5/QUANTUM-CHAT-AI-WORKSPACE
 
 ---
 
